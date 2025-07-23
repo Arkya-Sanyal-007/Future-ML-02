@@ -57,8 +57,7 @@ Customer_Churn_Prediction_System/
 ✅ `AutoPay`: Derived from payment method text  
 ✅ `SeniorGroup`: Categorization of senior citizens  
 ✅ `tenure_group`: Binned version of customer tenure  
-✅ One-hot encoding for categorical features:  
-• `Contract`, `InternetService`, `PaymentMethod`, `SeniorGroup`, `tenure_group`  
+✅ One-hot encoding for categorical features: `Contract`, `InternetService`, `PaymentMethod`, `SeniorGroup`, `tenure_group`  
 
 ---
 
