@@ -90,8 +90,8 @@ Final predictions are exported to:
 ## 🙋‍♂️ Author
 
 **Arkya Sanyal**  
-🎓 Machine Learning Intern  
-📧 For any questions, contact Email: [arkyasanyal03@gmail.com](mailto:arkyasanyal03@gmail.com)  
+  
+For any questions, contact Email: [arkyasanyal03@gmail.com](mailto:arkyasanyal03@gmail.com)  
 
 ---
 
