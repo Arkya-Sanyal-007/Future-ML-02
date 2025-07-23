@@ -34,6 +34,8 @@ Customer_Churn_Prediction_System/
 ├── data/
 │   └── raw_data.csv                             # Source dataset
 │
+├── reuirement.txt                               # Necessary for model building and use
+│
 └── README.md                                    # You're here!
 ```
 
@@ -47,6 +49,14 @@ Customer_Churn_Prediction_System/
 | ML & Preprocessing  | XGBoost, Scikit-learn, Pandas, Numpy, Imbalanced-learn (SMOTE)     |
 | Visualization       | Power BI, Matplotlib, Seaborn                                      |
 | Output Formats      | CSV for predictions, PBIX for dashboard                            |
+
+---
+
+## 📌 Requirements
+
+- Python 3.7+
+- Jupyter Notebook
+- Required libraries listed in requirements.txt
 
 ---
 
