@@ -32,7 +32,7 @@ Customer_Churn_Prediction_System/
 │   └── Dashboard.png                                       # Screenshot of the dashboard
 │
 ├── data/
-│   └── raw_data.csv                                        # Source dataset
+│   └── sample data.csv                                        # Source dataset
 │
 ├── requirments/
 │   └── requirements.txt                                    # Necessary for model building and use
