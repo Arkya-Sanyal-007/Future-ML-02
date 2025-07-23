@@ -22,21 +22,21 @@ Customer churn prediction helps businesses proactively retain customers by ident
 Customer_Churn_Prediction_System/
 │
 ├── model/
-│   ├── Customer_Churn_Prediction_System.ipynb   # Jupyter notebook for model training
-│   └── churn_predictions.csv                    # Final output predictions
+│   ├── Customer_Churn_Prediction_System.ipynb         # Jupyter notebook for model training
+│   └── churn_predictions.csv                          # Final output predictions
 │
 ├── powerbi/
-│   └── churn_dashboard.pbix                     # Power BI dashboard 
+│   └── churn_dashboard.pbix                           # Power BI dashboard 
 │
 ├── sample dashboard image
-│   └── Dashboard.png                            # Screenshot of the dashboard
+│   └── Dashboard.png                                  # Screenshot of the dashboard
 │
 ├── data/
-│   └── raw_data.csv                             # Source dataset
+│   └── raw_data.csv                                   # Source dataset
 │
-├── reuirement.txt                               # Necessary for model building and use
+├── requirements.txt                                   # Necessary for model building and use
 │
-└── README.md                                    # You're here!
+└── README.md                                          # You're here!
 ```
 
 ---
@@ -53,30 +53,30 @@ Customer_Churn_Prediction_System/
 ---
 
 ## ⚙️ Getting Started
-Clone the repository
-git clone (https://github.com/Arkya-Sanyal-007/Future-ML-01.git
-cd Future-ML-01
-Install dependencies
+
+1. **Clone the repository**  
+```bash
+git clone (https://github.com/Arkya-Sanyal-007/Future-ML-02.git
+cd Future-ML-02
+```
+
+2. **Install dependencies**  
+```bash
 pip install -r requirements.txt
-Launch the notebook
-jupyter notebook notebooks/Retail_Sales_Forecasting_(Kaggle).ipynb
+```
+
+3. **Launch the notebook**  
+```bash
+jupyter notebook notebooks/Customer Churn Prediction System.ipynb
+```
+
+---
 
 ## 📌 Requirements
 
 - Python 3.7+
 - Jupyter Notebook
 - Required libraries listed in requirements.txt
-
----
-
-## 📊 Feature Engineering
-
-✅ `TotalServices`: Count of all services used by a customer  
-✅ `MonthlyChargesPerService`, `TotalChargesPerService`: Normalized billing metrics  
-✅ `AutoPay`: Derived from payment method text  
-✅ `SeniorGroup`: Categorization of senior citizens  
-✅ `tenure_group`: Binned version of customer tenure  
-✅ One-hot encoding for categorical features: `Contract`, `InternetService`, `PaymentMethod`, `SeniorGroup`, `tenure_group`  
 
 ---
 
