@@ -22,21 +22,22 @@ Customer churn prediction helps businesses proactively retain customers by ident
 Customer_Churn_Prediction_System/
 │
 ├── model/
-│   ├── Customer_Churn_Prediction_System.ipynb         # Jupyter notebook for model training
-│   └── churn_predictions.csv                          # Final output predictions
+│   ├── Customer_Churn_Prediction_System.ipynb              # Jupyter notebook for model training
+│   └── churn_predictions.csv                               # Final output predictions
 │
 ├── powerbi/
-│   └── churn_dashboard.pbix                           # Power BI dashboard 
+│   └── Customer Churn Prediction Dashboard.pbix            # Power BI dashboard 
 │
 ├── sample dashboard image
-│   └── Dashboard.png                                  # Screenshot of the dashboard
+│   └── Dashboard.png                                       # Screenshot of the dashboard
 │
 ├── data/
-│   └── raw_data.csv                                   # Source dataset
+│   └── raw_data.csv                                        # Source dataset
 │
-├── requirements.txt                                   # Necessary for model building and use
+├── requirments/
+│   └── requirements.txt                                    # Necessary for model building and use
 │
-└── README.md                                          # You're here!
+└── README.md                                               # You're here!
 ```
 
 ---
