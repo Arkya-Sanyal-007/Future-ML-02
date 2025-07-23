@@ -109,7 +109,7 @@ Final predictions are exported to:
 
 ## 🙋‍♂️ Author
 
-**Arkya Sanyal**  
+**Arkya Sanyal** | ❤️
   
 For any questions, contact : [arkyasanyal03@gmail.com](mailto:arkyasanyal03@gmail.com)  
 
