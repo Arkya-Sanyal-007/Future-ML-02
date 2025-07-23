@@ -91,7 +91,7 @@ Final predictions are exported to:
 
 **Arkya Sanyal**  
   
-For any questions, contact Email: [arkyasanyal03@gmail.com](mailto:arkyasanyal03@gmail.com)  
+For any questions, contact : [arkyasanyal03@gmail.com](mailto:arkyasanyal03@gmail.com)  
 
 ---
 
