@@ -1,6 +1,6 @@
 # 📉 Customer Churn Prediction System 
 
-This project is the 2nd task of my role as a **Machine Learning Intern** which predicts which customers are likely to leave a telecom service, using machine learning and visualizing key churn insights with Power BI.
+This project is the **2nd task** of my role as a **Machine Learning Intern** which predicts which customers are likely to leave a telecom service, using machine learning and visualizing key churn insights with Power BI.
 
 ---
 
