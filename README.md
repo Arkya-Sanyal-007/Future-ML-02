@@ -27,10 +27,10 @@ Customer_Churn_Prediction_System/
 │
 ├── powerbi/
 │   └── churn_dashboard.pbix                     # Power BI dashboard 
-|
+│
 ├── sample dashboard image
-|   └── Dashboard.png                            # Screenshot of the dashboard
-|
+│   └── Dashboard.png                            # Screenshot of the dashboard
+│
 ├── data/
 │   └── raw_data.csv                             # Source dataset
 │
