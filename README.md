@@ -52,6 +52,15 @@ Customer_Churn_Prediction_System/
 
 ---
 
+## ⚙️ Getting Started
+Clone the repository
+git clone (https://github.com/Arkya-Sanyal-007/Future-ML-01.git
+cd Future-ML-01
+Install dependencies
+pip install -r requirements.txt
+Launch the notebook
+jupyter notebook notebooks/Retail_Sales_Forecasting_(Kaggle).ipynb
+
 ## 📌 Requirements
 
 - Python 3.7+
